@@ -13,3 +13,5 @@ const facto = number => {
   };
   
   console.log(facto(-1)); //result = 120
+
+  //author : Bilal Akar
